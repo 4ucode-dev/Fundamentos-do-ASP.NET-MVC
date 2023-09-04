@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Fundamentos_do_ASP.NET_MVC.Models;
+using PrimeiraApp.Models;
 
-namespace Fundamentos_do_ASP.NET_MVC.Controllers;
+namespace PrimeiraApp.Controllers;
 
 public class HomeController : Controller
 {

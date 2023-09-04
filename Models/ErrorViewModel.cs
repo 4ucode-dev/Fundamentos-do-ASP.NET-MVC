@@ -1,4 +1,4 @@
-namespace Fundamentos_do_ASP.NET_MVC.Models;
+namespace PrimeiraApp.Models;
 
 public class ErrorViewModel
 {
